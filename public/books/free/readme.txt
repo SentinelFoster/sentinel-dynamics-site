@@ -1,1 +1,1 @@
-Free book projects will be generated here.
+This folder stores media or book content.

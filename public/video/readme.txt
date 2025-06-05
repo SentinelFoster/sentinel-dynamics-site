@@ -1,1 +1,1 @@
-YouTube embed or video data reference.
+This folder stores media or book content.

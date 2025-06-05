@@ -1,1 +1,1 @@
-Paid content with Stripe link protection.
+This folder stores media or book content.
