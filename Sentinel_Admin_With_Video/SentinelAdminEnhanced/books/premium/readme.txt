@@ -1,1 +1,0 @@
-Paid content with Stripe link protection.
